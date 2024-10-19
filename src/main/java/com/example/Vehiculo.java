@@ -14,11 +14,11 @@ class Auto extends  Vehiculo {
     }
 }
 
-class Main {
-    public static void main(String[] args) {
-        Vehiculo myVehiculo1 = new Vehiculo();
-        myVehiculo1.acelerate();
-        Vehiculo myVehiculo2 = new Auto();
-        myVehiculo2.acelerate();
-    }
-}
+// class Main {
+//     public static void main(String[] args) {
+//         Vehiculo myVehiculo1 = new Vehiculo();
+//         myVehiculo1.acelerate();
+//         Vehiculo myVehiculo2 = new Auto();
+//         myVehiculo2.acelerate();
+//     }
+// }
